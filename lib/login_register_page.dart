@@ -28,7 +28,7 @@ class LoginRegisterPage extends StatelessWidget {
                 children: [
                    Text(
                     "Descover Your" ,textAlign:TextAlign.center,style: TextStyle(fontFamily:'Roboto',fontSize:36,fontWeight:FontWeight.bold ,color:Color(0xFF3A19F9),wordSpacing: 2)),
-                    SizedBox(height: 10),
+                  
                      Text(
                     "Dream Here" ,textAlign:TextAlign.center,style: TextStyle(fontFamily:'Roboto',fontSize:36,fontWeight:FontWeight.bold ,color:Color(0xFF3A19F9),wordSpacing: 2)),
                     SizedBox(height: 20),
